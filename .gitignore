@@ -1,0 +1,4 @@
+/build/
+/loki-enchanter.pro.*
+/.qmake.stash
+/translations/*.qm

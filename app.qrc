@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="save">icons/save.ico</file>
+        <file alias="open">icons/open.ico</file>
+        <file alias="close">icons/close.ico</file>
+        <file alias="settings_ocr">icons/settings_ocr.ico</file>
+        <file alias="settings_enchant">icons/settings_enchant.ico</file>
+        <file alias="language_en_US">icons/language_en_US.ico</file>
+        <file alias="language_uk_UA">icons/language_uk_UA.ico</file>
+        <file alias="language_ru_RU">icons/language_ru_RU.ico</file>
+        <file alias="about">icons/about.ico</file>
+        <file alias="settings_macro">icons/settings_macro.ico</file>
+        <file alias="settings_relogin">icons/settings_relogin.ico</file>
+        <file alias="settings">icons/settings.ico</file>
+        <file alias="enchant_start">icons/enchant_start.ico</file>
+        <file alias="enchant_stop">icons/enchant_stop.ico</file>
+        <file alias="settings_locale">icons/settings_locale.ico</file>
+        <file alias="settings_window">icons/settings_window.ico</file>
+        <file alias="window_move">icons/window_move.ico</file>
+        <file alias="window_rename">icons/window_rename.ico</file>
+        <file alias="settings_device">icons/settings_device.ico</file>
+    </qresource>
+    <qresource prefix="/translations">
+        <file alias="en_US">translations/en_US.qm</file>
+        <file alias="ru_RU">translations/ru_RU.qm</file>
+        <file alias="uk_UA">translations/uk_UA.qm</file>
+    </qresource>
+    <qresource prefix="/">
+        <file alias="about">about.png</file>
+    </qresource>
+</RCC>
